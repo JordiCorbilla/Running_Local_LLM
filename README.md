@@ -20,4 +20,8 @@ Running a local LLM on your desktop/server:
 
 ![image](https://github.com/JordiCorbilla/Running_Local_LLM/assets/7347994/01c39544-df6b-4d19-a2b8-4c3a6e0a6269)
 
+- Navigate to the chat section and select the downloaded model and start chatting!:
+
+![image](https://github.com/JordiCorbilla/Running_Local_LLM/assets/7347994/aa45b7b7-9c33-4562-8bea-294230b33f04)
+
 - 
