@@ -33,7 +33,10 @@ Running a local LLM on your desktop/server:
 
 ##  Use OpenAI API to talk to the model
 
+Get my Jupyter Notebook and run it:
 
+https://github.com/JordiCorbilla/Running_Local_LLM/blob/main/Running_LLM_Locally.ipynb
 
-- 
-- 
+![image](https://github.com/JordiCorbilla/Running_Local_LLM/assets/7347994/d5e3c39c-6078-408a-a3c9-826262d585ee)
+
+Now you can talk to the LLM locally and you can even expose this externally using ngrok.
