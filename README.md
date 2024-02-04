@@ -1,2 +1,23 @@
-# Running_Local_LLM
-Running a local LLM on your desktop
+# Running a Local LLM
+
+Running a local LLM on your desktop/server:
+
+## Download LM Studio:
+
+- Go to https://lmstudio.ai/ and download the latest version for Windows:
+
+![image](https://github.com/JordiCorbilla/Running_Local_LLM/assets/7347994/5986f2da-ff44-4a02-9546-1ae866bb39f7)
+
+- Run the setup file (LM-Studio-0.2.12-Setup.exe) to install LM Studio locally.
+
+- Once installed, LM Studio will open:
+
+![image](https://github.com/JordiCorbilla/Running_Local_LLM/assets/7347994/c0f90407-4478-4885-9e01-6b4f06a68367)
+
+## Download LLMs:
+
+- Search for the latest Llama-2 model and install the one that will fit in your machine:
+
+![image](https://github.com/JordiCorbilla/Running_Local_LLM/assets/7347994/01c39544-df6b-4d19-a2b8-4c3a6e0a6269)
+
+- 
