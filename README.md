@@ -24,4 +24,16 @@ Running a local LLM on your desktop/server:
 
 ![image](https://github.com/JordiCorbilla/Running_Local_LLM/assets/7347994/aa45b7b7-9c33-4562-8bea-294230b33f04)
 
+## Enable the local inference server
+
+- We can expose this model so we can access it programmatically:
+- Navigate to the local server tab and start the server on port 1234.
+
+![image](https://github.com/JordiCorbilla/Running_Local_LLM/assets/7347994/63c84905-01e4-4a7a-b97c-9dce50f2a564)
+
+##  Use OpenAI API to talk to the model
+
+
+
+- 
 - 
